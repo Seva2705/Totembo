@@ -1,0 +1,158 @@
+@media (max-width: 1400px){
+    .header__block-content {
+        flex-wrap: wrap;
+        justify-content: center;
+        gap: 15px;
+
+    }
+
+    .main__block-end {
+        flex-wrap: wrap;
+        justify-content: center;
+        gap: 15px;
+    }
+}
+@media (max-width: 1200px){
+
+    .main__items {
+        flex-wrap: wrap;
+        justify-content: space-between;
+        gap: 10px;
+    }
+
+    .header__nav-menu {
+        flex-wrap: wrap;
+        justify-content: center;
+        gap: 15px;
+    }
+
+    .header__nav-links {
+        flex-wrap: wrap;
+        justify-content: center;
+        gap: 15px;
+    }
+
+   
+
+
+
+   
+
+}
+@media (max-width: 992px){
+    .header__nav-content {
+        flex-wrap: wrap;
+        justify-content: center;
+        gap: 15px;
+        
+    }
+
+    .footer__menu {
+        justify-content: space-between;
+        gap: 20px;
+    }
+    .main__item {
+        width: 100%;
+
+    }
+
+    .main__items {
+        flex-wrap: wrap;
+        justify-content: center;
+        gap: 15px;
+    }
+
+   
+
+}
+@media (max-width: 768px){
+    .main__item {
+        width: 100%;
+
+    }
+
+    .main__items {
+        flex-wrap: wrap;
+        justify-content: center;
+        gap: 15px;
+    }
+    .footer__content {
+        width: 100%;
+    }
+    .footer__menu {
+        flex-wrap: wrap;
+        justify-content: center;
+        gap: 20px;
+    }
+    .main__block-image {
+        width: 100%;
+    }
+
+ 
+
+}
+@media (max-width: 576px){
+
+    .header__cards {
+        padding: 150px 50px;
+    }
+
+    .header__block-content {
+        flex-wrap: wrap;
+        justify-content: center;
+        gap: 20px;
+
+    }
+
+    .header__block-left {
+        width: 100%;
+    }
+
+    .header__block-right {
+        width: 100%;
+    }
+
+    .footer__menu {
+        flex-wrap: wrap;
+        justify-content: center;
+        gap: 20px;
+    }
+
+    .main__block-image {
+        width: 100%;
+    }
+
+    .main__block-title {
+        font-size: 15px;
+        margin-top: 148px;
+    }
+
+    .main__block-description {
+        font-size: 15px;
+        line-height: 15px;
+        margin-bottom: 20px;
+    }
+
+    .main__block-span {
+        font-size: 10px;
+        line-height: 10px;
+    }
+    .main__block-info {
+        height: 50%;
+    }
+
+}
+@media (max-width: 480px){
+    .main__block-left::before {
+        font-size: 14px;
+        line-height: 11px;
+        padding: 9px 20px;
+
+    }
+  
+}
+@media (max-width: 375px){
+
+   
+
+}
